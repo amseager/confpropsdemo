@@ -1,0 +1,10 @@
+props:
+  testString: asdadasd
+  testMap:
+    key1:
+      innerString: value1
+      innerInt: 1
+      someOtherWrongProperty: wrongvalue
+    key2:
+      innerString: value2
+      innerInt: 2
